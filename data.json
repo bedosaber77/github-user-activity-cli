@@ -1,0 +1,959 @@
+[
+  {
+    "id": "41056756659",
+    "type": "PushEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 841945071,
+      "name": "bedosaber77/javascript-amazon-project",
+      "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project"
+    },
+    "payload": {
+      "repository_id": 841945071,
+      "push_id": 19785963679,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "9bd0d831f4cfc40cc582050017528d258047c514",
+      "before": "27ef0caf88911a770e2d8a813c83c1734d349ffc",
+      "commits": [
+        {
+          "sha": "9bd0d831f4cfc40cc582050017528d258047c514",
+          "author": {
+            "email": "136710727+bedosaber77@users.noreply.github.com",
+            "name": "Abdelrahman Medhat Saber"
+          },
+          "message": "fix bug in paths",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/commits/9bd0d831f4cfc40cc582050017528d258047c514"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-08-15T15:34:15Z"
+  },
+  {
+    "id": "41056477717",
+    "type": "PushEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 841945071,
+      "name": "bedosaber77/javascript-amazon-project",
+      "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project"
+    },
+    "payload": {
+      "repository_id": 841945071,
+      "push_id": 19785833292,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "27ef0caf88911a770e2d8a813c83c1734d349ffc",
+      "before": "486b75e0ef036f6c76d1e532aa7f74a842e86a5b",
+      "commits": [
+        {
+          "sha": "27ef0caf88911a770e2d8a813c83c1734d349ffc",
+          "author": {
+            "email": "136710727+bedosaber77@users.noreply.github.com",
+            "name": "Abdelrahman Medhat Saber"
+          },
+          "message": "fix bug",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/commits/27ef0caf88911a770e2d8a813c83c1734d349ffc"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-08-15T15:25:04Z"
+  },
+  {
+    "id": "41056164307",
+    "type": "PushEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 841945071,
+      "name": "bedosaber77/javascript-amazon-project",
+      "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project"
+    },
+    "payload": {
+      "repository_id": 841945071,
+      "push_id": 19785677776,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "486b75e0ef036f6c76d1e532aa7f74a842e86a5b",
+      "before": "c554541f75372dc7ad75db633b9fae8431f2605d",
+      "commits": [
+        {
+          "sha": "486b75e0ef036f6c76d1e532aa7f74a842e86a5b",
+          "author": {
+            "email": "136710727+bedosaber77@users.noreply.github.com",
+            "name": "Abdelrahman Medhat Saber"
+          },
+          "message": "modify paths to work on github",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/commits/486b75e0ef036f6c76d1e532aa7f74a842e86a5b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-08-15T15:14:24Z"
+  },
+  {
+    "id": "41056063278",
+    "type": "PushEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 841945071,
+      "name": "bedosaber77/javascript-amazon-project",
+      "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project"
+    },
+    "payload": {
+      "repository_id": 841945071,
+      "push_id": 19785626143,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "c554541f75372dc7ad75db633b9fae8431f2605d",
+      "before": "68313fe4dddd02f59b51d30d1828773584b39b95",
+      "commits": [
+        {
+          "sha": "c554541f75372dc7ad75db633b9fae8431f2605d",
+          "author": {
+            "email": "136710727+bedosaber77@users.noreply.github.com",
+            "name": "Abdelrahman Medhat Saber"
+          },
+          "message": "changing path to realtive",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/commits/c554541f75372dc7ad75db633b9fae8431f2605d"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-08-15T15:11:05Z"
+  },
+  {
+    "id": "41055123837",
+    "type": "PushEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 841945071,
+      "name": "bedosaber77/javascript-amazon-project",
+      "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project"
+    },
+    "payload": {
+      "repository_id": 841945071,
+      "push_id": 19785175519,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "68313fe4dddd02f59b51d30d1828773584b39b95",
+      "before": "36ea5df11438bac44e05e35e8866ce2dd21b9202",
+      "commits": [
+        {
+          "sha": "68313fe4dddd02f59b51d30d1828773584b39b95",
+          "author": {
+            "email": "136710727+bedosaber77@users.noreply.github.com",
+            "name": "Abdelrahman Medhat Saber"
+          },
+          "message": "modifing path",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/commits/68313fe4dddd02f59b51d30d1828773584b39b95"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-08-15T14:40:58Z"
+  },
+  {
+    "id": "41055012262",
+    "type": "PushEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 841945071,
+      "name": "bedosaber77/javascript-amazon-project",
+      "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project"
+    },
+    "payload": {
+      "repository_id": 841945071,
+      "push_id": 19785121491,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "36ea5df11438bac44e05e35e8866ce2dd21b9202",
+      "before": "28c228749c57e3ce34f523c0131d18fbce5d0ec6",
+      "commits": [
+        {
+          "sha": "36ea5df11438bac44e05e35e8866ce2dd21b9202",
+          "author": {
+            "email": "136710727+bedosaber77@users.noreply.github.com",
+            "name": "Abdelrahman Medhat Saber"
+          },
+          "message": "rename amazon to index",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/commits/36ea5df11438bac44e05e35e8866ce2dd21b9202"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-08-15T14:37:14Z"
+  },
+  {
+    "id": "41054886473",
+    "type": "PushEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 841945071,
+      "name": "bedosaber77/javascript-amazon-project",
+      "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project"
+    },
+    "payload": {
+      "repository_id": 841945071,
+      "push_id": 19785060479,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "28c228749c57e3ce34f523c0131d18fbce5d0ec6",
+      "before": "41f3737db4ae9ab492633d16add6942c0a004dd7",
+      "commits": [
+        {
+          "sha": "28c228749c57e3ce34f523c0131d18fbce5d0ec6",
+          "author": {
+            "email": "136710727+bedosaber77@users.noreply.github.com",
+            "name": "Abdelrahman Medhat Saber"
+          },
+          "message": "finishing Project Without Search",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/commits/28c228749c57e3ce34f523c0131d18fbce5d0ec6"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-08-15T14:33:03Z"
+  },
+  {
+    "id": "40999979919",
+    "type": "PushEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 841945071,
+      "name": "bedosaber77/javascript-amazon-project",
+      "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project"
+    },
+    "payload": {
+      "repository_id": 841945071,
+      "push_id": 19757573612,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "41f3737db4ae9ab492633d16add6942c0a004dd7",
+      "before": "c32d1f9c09927c3bece2f17deee287005ea8bd0b",
+      "commits": [
+        {
+          "sha": "41f3737db4ae9ab492633d16add6942c0a004dd7",
+          "author": {
+            "email": "136710727+bedosaber77@users.noreply.github.com",
+            "name": "Abdelrahman Medhat Saber"
+          },
+          "message": "adding counting cart",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/commits/41f3737db4ae9ab492633d16add6942c0a004dd7"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-08-13T21:45:31Z"
+  },
+  {
+    "id": "40999817763",
+    "type": "PushEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 841945071,
+      "name": "bedosaber77/javascript-amazon-project",
+      "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project"
+    },
+    "payload": {
+      "repository_id": 841945071,
+      "push_id": 19757493239,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "c32d1f9c09927c3bece2f17deee287005ea8bd0b",
+      "before": "ee99cd52e373ba3ace75a699073222e860479bba",
+      "commits": [
+        {
+          "sha": "c32d1f9c09927c3bece2f17deee287005ea8bd0b",
+          "author": {
+            "email": "136710727+bedosaber77@users.noreply.github.com",
+            "name": "Abdelrahman Medhat Saber"
+          },
+          "message": "some fixes in local storge and checkout page",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/commits/c32d1f9c09927c3bece2f17deee287005ea8bd0b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-08-13T21:37:20Z"
+  },
+  {
+    "id": "40992027345",
+    "type": "PushEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 841945071,
+      "name": "bedosaber77/javascript-amazon-project",
+      "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project"
+    },
+    "payload": {
+      "repository_id": 841945071,
+      "push_id": 19753674031,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "ee99cd52e373ba3ace75a699073222e860479bba",
+      "before": "a357394150b964452e0ce6cc137141d7151fcfa0",
+      "commits": [
+        {
+          "sha": "ee99cd52e373ba3ace75a699073222e860479bba",
+          "author": {
+            "email": "136710727+bedosaber77@users.noreply.github.com",
+            "name": "Abdelrahman Medhat Saber"
+          },
+          "message": "adding local storge & modfying check out",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/commits/ee99cd52e373ba3ace75a699073222e860479bba"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-08-13T16:37:13Z"
+  },
+  {
+    "id": "40990647983",
+    "type": "PushEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 841945071,
+      "name": "bedosaber77/javascript-amazon-project",
+      "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project"
+    },
+    "payload": {
+      "repository_id": 841945071,
+      "push_id": 19753018852,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "a357394150b964452e0ce6cc137141d7151fcfa0",
+      "before": "4b8292b13ceac301b76fc046dfc795b48f4f922a",
+      "commits": [
+        {
+          "sha": "a357394150b964452e0ce6cc137141d7151fcfa0",
+          "author": {
+            "email": "136710727+bedosaber77@users.noreply.github.com",
+            "name": "Abdelrahman Medhat Saber"
+          },
+          "message": "some organizing code",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/commits/a357394150b964452e0ce6cc137141d7151fcfa0"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-08-13T15:52:16Z"
+  },
+  {
+    "id": "40990493684",
+    "type": "PushEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 841945071,
+      "name": "bedosaber77/javascript-amazon-project",
+      "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project"
+    },
+    "payload": {
+      "repository_id": 841945071,
+      "push_id": 19752946865,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "4b8292b13ceac301b76fc046dfc795b48f4f922a",
+      "before": "fb9ce95c927662c5ef903b70e2191ea6d1aed3d3",
+      "commits": [
+        {
+          "sha": "4b8292b13ceac301b76fc046dfc795b48f4f922a",
+          "author": {
+            "email": "136710727+bedosaber77@users.noreply.github.com",
+            "name": "Abdelrahman Medhat Saber"
+          },
+          "message": "adding to cart",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/commits/4b8292b13ceac301b76fc046dfc795b48f4f922a"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-08-13T15:47:36Z"
+  },
+  {
+    "id": "40984896729",
+    "type": "PushEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 841945071,
+      "name": "bedosaber77/javascript-amazon-project",
+      "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project"
+    },
+    "payload": {
+      "repository_id": 841945071,
+      "push_id": 19750291474,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "fb9ce95c927662c5ef903b70e2191ea6d1aed3d3",
+      "before": "8ae6fabf3c37c2d055f046e09871b87242c1f73e",
+      "commits": [
+        {
+          "sha": "fb9ce95c927662c5ef903b70e2191ea6d1aed3d3",
+          "author": {
+            "email": "136710727+bedosaber77@users.noreply.github.com",
+            "name": "Abdelrahman Medhat Saber"
+          },
+          "message": "loading products from data to page",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/commits/fb9ce95c927662c5ef903b70e2191ea6d1aed3d3"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-08-13T13:16:48Z"
+  },
+  {
+    "id": "40980719991",
+    "type": "ForkEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 639566051,
+      "name": "SuperSimpleDev/javascript-amazon-project",
+      "url": "https://api.github.com/repos/SuperSimpleDev/javascript-amazon-project"
+    },
+    "payload": {
+      "forkee": {
+        "id": 841945071,
+        "node_id": "R_kgDOMi8P7w",
+        "name": "javascript-amazon-project",
+        "full_name": "bedosaber77/javascript-amazon-project",
+        "private": false,
+        "owner": {
+          "login": "bedosaber77",
+          "id": 136710727,
+          "node_id": "U_kgDOCCYKRw",
+          "avatar_url": "https://avatars.githubusercontent.com/u/136710727?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/bedosaber77",
+          "html_url": "https://github.com/bedosaber77",
+          "followers_url": "https://api.github.com/users/bedosaber77/followers",
+          "following_url": "https://api.github.com/users/bedosaber77/following{/other_user}",
+          "gists_url": "https://api.github.com/users/bedosaber77/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/bedosaber77/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/bedosaber77/subscriptions",
+          "organizations_url": "https://api.github.com/users/bedosaber77/orgs",
+          "repos_url": "https://api.github.com/users/bedosaber77/repos",
+          "events_url": "https://api.github.com/users/bedosaber77/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/bedosaber77/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "html_url": "https://github.com/bedosaber77/javascript-amazon-project",
+        "description": null,
+        "fork": true,
+        "url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project",
+        "forks_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/forks",
+        "keys_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/teams",
+        "hooks_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/hooks",
+        "issue_events_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/events",
+        "assignees_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/tags",
+        "blobs_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/languages",
+        "stargazers_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/stargazers",
+        "contributors_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/contributors",
+        "subscribers_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/subscribers",
+        "subscription_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/subscription",
+        "commits_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/merges",
+        "archive_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/downloads",
+        "issues_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/labels{/name}",
+        "releases_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/bedosaber77/javascript-amazon-project/deployments",
+        "created_at": "2024-08-13T11:08:05Z",
+        "updated_at": "2024-08-13T11:08:05Z",
+        "pushed_at": "2024-06-25T14:23:22Z",
+        "git_url": "git://github.com/bedosaber77/javascript-amazon-project.git",
+        "ssh_url": "git@github.com:bedosaber77/javascript-amazon-project.git",
+        "clone_url": "https://github.com/bedosaber77/javascript-amazon-project.git",
+        "svn_url": "https://github.com/bedosaber77/javascript-amazon-project",
+        "homepage": null,
+        "size": 3314,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "has_issues": false,
+        "has_projects": true,
+        "has_downloads": true,
+        "has_wiki": false,
+        "has_pages": false,
+        "has_discussions": false,
+        "forks_count": 0,
+        "mirror_url": null,
+        "archived": false,
+        "disabled": false,
+        "open_issues_count": 0,
+        "license": null,
+        "allow_forking": true,
+        "is_template": false,
+        "web_commit_signoff_required": false,
+        "topics": [],
+        "visibility": "public",
+        "forks": 0,
+        "open_issues": 0,
+        "watchers": 0,
+        "default_branch": "main",
+        "public": true
+      }
+    },
+    "public": true,
+    "created_at": "2024-08-13T11:08:05Z"
+  },
+  {
+    "id": "40718933948",
+    "type": "PublicEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 834474195,
+      "name": "bedosaber77/WebTrainingTask1",
+      "url": "https://api.github.com/repos/bedosaber77/WebTrainingTask1"
+    },
+    "payload": {},
+    "public": true,
+    "created_at": "2024-08-03T17:08:57Z"
+  },
+  {
+    "id": "40718908308",
+    "type": "PublicEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 836223194,
+      "name": "bedosaber77/WebTrainingTask2",
+      "url": "https://api.github.com/repos/bedosaber77/WebTrainingTask2"
+    },
+    "payload": {},
+    "public": true,
+    "created_at": "2024-08-03T17:05:55Z"
+  },
+  {
+    "id": "40718432993",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 88011908,
+      "name": "practical-tutorials/project-based-learning",
+      "url": "https://api.github.com/repos/practical-tutorials/project-based-learning"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2024-08-03T16:13:17Z",
+    "org": {
+      "id": 89421154,
+      "login": "practical-tutorials",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/practical-tutorials",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89421154?"
+    }
+  },
+  {
+    "id": "40718426212",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 141834370,
+      "name": "AngelSanchezT/books-1",
+      "url": "https://api.github.com/repos/AngelSanchezT/books-1"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2024-08-03T16:12:29Z"
+  },
+  {
+    "id": "40515414127",
+    "type": "PushEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 788541939,
+      "name": "bedosaber77/Youtube-Clone-Demo",
+      "url": "https://api.github.com/repos/bedosaber77/Youtube-Clone-Demo"
+    },
+    "payload": {
+      "repository_id": 788541939,
+      "push_id": 19506766625,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "af7ee6ba31b11a94e2eebe3b7ae2f24a9008d041",
+      "before": "cc72cb88798f749158143c52b54fd13b9fcc128b",
+      "commits": [
+        {
+          "sha": "af7ee6ba31b11a94e2eebe3b7ae2f24a9008d041",
+          "author": {
+            "email": "136710727+bedosaber77@users.noreply.github.com",
+            "name": "Abdelrahman Medhat Saber"
+          },
+          "message": "Update and rename youtubeclone.html to index.html",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bedosaber77/Youtube-Clone-Demo/commits/af7ee6ba31b11a94e2eebe3b7ae2f24a9008d041"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-07-27T11:55:49Z"
+  },
+  {
+    "id": "39196507073",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 348258736,
+      "name": "ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
+      "url": "https://api.github.com/repos/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2024-06-11T14:12:49Z"
+  },
+  {
+    "id": "38848746940",
+    "type": "PublicEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 790399398,
+      "name": "bedosaber77/AES",
+      "url": "https://api.github.com/repos/bedosaber77/AES"
+    },
+    "payload": {},
+    "public": true,
+    "created_at": "2024-05-30T12:04:12Z"
+  },
+  {
+    "id": "38848286573",
+    "type": "PublicEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 772831010,
+      "name": "bedosaber77/Alien-Invasion-Simulation-Game",
+      "url": "https://api.github.com/repos/bedosaber77/Alien-Invasion-Simulation-Game"
+    },
+    "payload": {},
+    "public": true,
+    "created_at": "2024-05-30T11:48:33Z"
+  },
+  {
+    "id": "38847215690",
+    "type": "ForkEvent",
+    "actor": {
+      "id": 136710727,
+      "login": "bedosaber77",
+      "display_login": "bedosaber77",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bedosaber77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136710727?"
+    },
+    "repo": {
+      "id": 807753868,
+      "name": "Mag-D-Anas/Arithmetic-Logic-Unit",
+      "url": "https://api.github.com/repos/Mag-D-Anas/Arithmetic-Logic-Unit"
+    },
+    "payload": {
+      "forkee": {
+        "id": 808090230,
+        "node_id": "R_kgDOMCp6dg",
+        "name": "Arithmetic-Logic-Unit",
+        "full_name": "bedosaber77/Arithmetic-Logic-Unit",
+        "private": false,
+        "owner": {
+          "login": "bedosaber77",
+          "id": 136710727,
+          "node_id": "U_kgDOCCYKRw",
+          "avatar_url": "https://avatars.githubusercontent.com/u/136710727?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/bedosaber77",
+          "html_url": "https://github.com/bedosaber77",
+          "followers_url": "https://api.github.com/users/bedosaber77/followers",
+          "following_url": "https://api.github.com/users/bedosaber77/following{/other_user}",
+          "gists_url": "https://api.github.com/users/bedosaber77/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/bedosaber77/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/bedosaber77/subscriptions",
+          "organizations_url": "https://api.github.com/users/bedosaber77/orgs",
+          "repos_url": "https://api.github.com/users/bedosaber77/repos",
+          "events_url": "https://api.github.com/users/bedosaber77/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/bedosaber77/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "html_url": "https://github.com/bedosaber77/Arithmetic-Logic-Unit",
+        "description": "💫 Optimized 2-bit signed numbers hardware circuit that perform (addition - subtraction - multiplication - Modulus)",
+        "fork": true,
+        "url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit",
+        "forks_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/forks",
+        "keys_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/teams",
+        "hooks_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/hooks",
+        "issue_events_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/events",
+        "assignees_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/tags",
+        "blobs_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/languages",
+        "stargazers_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/stargazers",
+        "contributors_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/contributors",
+        "subscribers_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/subscribers",
+        "subscription_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/subscription",
+        "commits_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/merges",
+        "archive_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/downloads",
+        "issues_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/labels{/name}",
+        "releases_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/bedosaber77/Arithmetic-Logic-Unit/deployments",
+        "created_at": "2024-05-30T11:11:48Z",
+        "updated_at": "2024-05-30T11:11:49Z",
+        "pushed_at": "2024-05-29T17:55:24Z",
+        "git_url": "git://github.com/bedosaber77/Arithmetic-Logic-Unit.git",
+        "ssh_url": "git@github.com:bedosaber77/Arithmetic-Logic-Unit.git",
+        "clone_url": "https://github.com/bedosaber77/Arithmetic-Logic-Unit.git",
+        "svn_url": "https://github.com/bedosaber77/Arithmetic-Logic-Unit",
+        "homepage": null,
+        "size": 22,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "has_issues": false,
+        "has_projects": true,
+        "has_downloads": true,
+        "has_wiki": true,
+        "has_pages": false,
+        "has_discussions": false,
+        "forks_count": 0,
+        "mirror_url": null,
+        "archived": false,
+        "disabled": false,
+        "open_issues_count": 0,
+        "license": null,
+        "allow_forking": true,
+        "is_template": false,
+        "web_commit_signoff_required": false,
+        "topics": [],
+        "visibility": "public",
+        "forks": 0,
+        "open_issues": 0,
+        "watchers": 0,
+        "default_branch": "main",
+        "public": true
+      }
+    },
+    "public": true,
+    "created_at": "2024-05-30T11:11:49Z"
+  }
+]
